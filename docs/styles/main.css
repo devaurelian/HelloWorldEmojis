@@ -1,0 +1,22 @@
+/*
+ *  Hello World Emojis. Copyright (c) 2018 HWALab. MIT License.
+ *  https://www.hwalab.com/helloworldemojis/
+ */
+
+body {
+    margin: 2rem 1rem;
+}
+
+@media (min-width: 768px) {
+    body {
+        margin: 2rem;
+    }
+}
+
+.emoji {
+    color: #cccccc;
+    font-family: "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji", Times, Symbola, Aegyptus, Code2000, Code2001, Code2002, Musica, serif, LastResort;
+    font-size: 2rem;
+    margin: 0;
+    word-break: break-all;
+}

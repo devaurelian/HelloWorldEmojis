@@ -1,0 +1,14 @@
+{
+    "name": "helloworldemojis",
+    "version": "1.0.0",
+    "description": "A HWA (Hello World App) and PWA (Progressive Web App) that displays the barebone emoji list, and lets you experience the missing emojis in your browser.",
+    "scripts": {
+        "workbox": "workbox generateSW"
+    },
+    "author": "HWALab",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hwalab/HelloWorldEmojis.git"
+    }
+}
