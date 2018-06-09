@@ -1,5 +1,5 @@
 {
-    "short_name": "Hello World Emojis",
+    "short_name": "Hello Emojis",
     "name": "Hello World Emojis",
     "description": "A HWA (Hello World App) and PWA (Progressive Web App) that displays the barebone emoji list, and lets you experience the missing emojis in your browser.",
     "scope": "/",
