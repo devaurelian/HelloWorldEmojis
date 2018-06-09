@@ -1,6 +1,8 @@
 # Hello World Emojis
 Hello World Emojis is a Hello World Progressive Web App (HWPWA) that outputs all emoji characters, instead of the traditional "Hello, World!". You can easily scroll through the emoji list and spot new and interesting emojis that you can use. Or you can easily see how many emojis characters are missing on your platform.
 
+<img height="400" src="https://github.com/hwalab/repo-assets/blob/master/helloworldemojis/readme/hello-world-emojis-pwa-android.png?raw=true" > <img height="400" hspace="20" src="https://github.com/hwalab/repo-assets/blob/master/helloworldemojis/readme/hello-world-emojis-pwa-windows.png?raw=true" >
+
 ## Development
 
 Hello World Emojis is hosted on GitHub Pages, and served from the [/docs](docs) folder.
